@@ -1,6 +1,6 @@
 {
   "name": "task",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "private": true,
   "dependencies": {
     "@coreui/react": "^5.0.0",
