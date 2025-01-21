@@ -13,7 +13,6 @@ export function Canvas (props){
             context.fillRect(0,0,props.width,props.height);
         }
 
-        
         canvas.addEventListener("click",clickHandler)
 
         return()=>{
