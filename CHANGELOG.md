@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.7](https://github.com/viji1998/reactjs-ai/compare/v0.1.6...v0.1.7) (2025-01-21)
+
+
+### Bug Fixes
+
+* Commits, testing the feature is working ([0e725ce](https://github.com/viji1998/reactjs-ai/commit/0e725ce5f5783e56e5447dc4b19e323bfd212e84))
+
 ### [0.1.6](https://github.com/viji1998/reactjs-ai/compare/v0.1.5...v0.1.6) (2025-01-21)
 
 ### [0.1.5](https://github.com/viji1998/reactjs-ai/compare/v0.1.4...v0.1.5) (2025-01-21)
